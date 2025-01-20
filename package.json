@@ -1,0 +1,12 @@
+{
+    "name": "cctv-recommendation-tool",
+    "version": "1.0.0",
+    "description": "Interactive CCTV camera recommendation tool",
+    "main": "app.js",
+    "scripts": {
+        "start": "serve ."
+    },
+    "dependencies": {
+        "serve": "^14.2.0"
+    }
+}
